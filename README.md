@@ -90,3 +90,4 @@ Begynd at bruge Tailwinds hjælpeklasser til at style dit indhold. Find `index.h
 Navigér derefter til [Tailwinds dokumentation](https://tailwindcss.com/docs/), for at se alle hjælpeklasser samt øvrige opsætningsmuligheder.
 
 ![Untitled](/README/Untitled.png)
+# same
